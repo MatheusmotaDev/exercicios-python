@@ -1,3 +1,5 @@
+# código simples para descobrir o número de vogais
+
 palavra = input('Por favor, digite uma palavra: ')
 
 vogal = 0

@@ -1,3 +1,6 @@
+# exercício para adivinhar sua idade usando a biblioteca DATETIME
+
+
 from datetime import datetime
 
 print('Bem vindo ao adivinhador de idade!')

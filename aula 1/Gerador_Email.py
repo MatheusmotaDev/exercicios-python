@@ -1,3 +1,5 @@
+# gerador de email simples a partir do seu nome
+
 print("Seja bem vindo ao novo criador de e-mail")
 
 nome = input('Por favor, digite seu nome: ')

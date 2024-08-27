@@ -1,3 +1,5 @@
+# exibição de uma clinica onde o usuário poderá descobrir a idade humana do seu cachorro
+
 print('Clínica veterinária Doutor dog')
 
 resp = input('Olá, seja bem vindo(a) a nossa cliníca, por favor digite seu nome: ')

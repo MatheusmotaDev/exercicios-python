@@ -1,3 +1,5 @@
+# código simples para descobrir a hipotenusa a partir da soliticação dos catetos
+
 import math
 
 print('Calculadora avançada de hipotenusa')

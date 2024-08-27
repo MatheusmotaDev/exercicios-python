@@ -1,3 +1,5 @@
+# código para descobrir o nome dos triângulos
+
 lado_1 = float(input("Digite o comprimento do primeiro lado: "))
 lado_2 = float(input("Digite o comprimento do segundo lado: "))
 lado_3 = float(input("Digite o comprimento do terceiro lado: "))

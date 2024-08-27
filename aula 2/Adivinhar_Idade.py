@@ -1,3 +1,5 @@
+# código para adivinhar a a faixa etária do indivíduo
+
 nome = input("Olá, digite seu nome: ")
 
 idade = int(input("Digite sua idade atual: "))

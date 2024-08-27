@@ -1,3 +1,5 @@
+# código para exibição simples de um caixa eletrônico
+
 saldo = 100
 
 print('BEM VINDO AO BANCO MUNDIAL')

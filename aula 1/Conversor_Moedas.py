@@ -1,3 +1,5 @@
+# Código simples para conversão de moedas internacionais
+
 print('Empresa de câmbio internacional')
 
 nome = input('Olá, para fins de segurança, informe seu nome: ')

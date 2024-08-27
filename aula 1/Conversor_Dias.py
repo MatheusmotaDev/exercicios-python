@@ -1,3 +1,4 @@
+# conversor simples de dias para segundos
 
 dias = int(input("Digite os dias para conversão: "))
 
